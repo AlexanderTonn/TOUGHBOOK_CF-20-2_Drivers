@@ -1,0 +1,13 @@
+# Local kernel/package build output
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+Module.symvers
+modules.order
+__pycache__/
+*.pyc
+
+# Temporary package staging
+camera-package-*/
